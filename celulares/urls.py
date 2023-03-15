@@ -19,3 +19,4 @@ urlpatterns = [
  path('polls/', include('celularesApp.urls')),
  path('admin/', admin.site.urls),
 ]
+
